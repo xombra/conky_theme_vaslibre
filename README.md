@@ -11,15 +11,21 @@ License : GNU GPL version 2
 - Processes
 - Wifi 
 
-
 ## Install folder
-/home/YOUR_USER/.conky/
+
+* Create folder vaslibre
+
+/home/YOUR_USER/.conky/vaslibre
+
+* Copy the contents of .tar.gz folder vaslibre
+
+/home/YOUR_USER/.conky/vaslibre
 
 ## Weather 
 * Valencia - Carabobo - Venezuela
   http://weather.yahooapis.com/forecastrss?w=395272&u=c
 
--Your Weather go: https://weather.yahoo.com/
+* Your Weather go: https://weather.yahoo.com/
 
 ## Screenshot
 
