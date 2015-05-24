@@ -1,4 +1,28 @@
-commit b4de6296e1f57ccabbbfee2ebc585d783a45025c (HEAD, origin/master, origin/HEAD, master)
+commit f722037eb50db4aaee666afec135d8e6475ccb66 (HEAD, origin/master, origin/HEAD, master)
+Author: xombra <xombra.com@gmail.com>
+Date:   Sun May 24 15:55:51 2015 -0430
+
+    * modificacion readme
+
+commit 24a8c84600ecfcdd74e22c24b4eb86a33d5ca491
+Author: xombra <xombra.com@gmail.com>
+Date:   Sun May 24 15:50:52 2015 -0430
+
+    * modificacion imagen
+
+commit 98e54a7e28a9af58e62596b33f71b9841e926205
+Author: xombra <xombra.com@gmail.com>
+Date:   Sun May 24 15:49:24 2015 -0430
+
+    * inclusion de imagen en el readme
+
+commit 2c00db42576a7a2ce0b5a2007955ebdf849d913c
+Author: xombra <xombra.com@gmail.com>
+Date:   Sun May 24 15:42:08 2015 -0430
+
+    * changelog
+
+commit b4de6296e1f57ccabbbfee2ebc585d783a45025c
 Author: xombra <xombra.com@gmail.com>
 Date:   Sun May 24 15:41:16 2015 -0430
 
