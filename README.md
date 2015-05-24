@@ -23,4 +23,4 @@ License : GNU GPL version 2
 
 ## Screenshot
 
-![Conky-VaSlibre](http://es.tinypic.com/r/21eyik0/8)
+![Conky-VaSlibre](http://i57.tinypic.com/21eyik0.png)
