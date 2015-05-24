@@ -20,3 +20,7 @@ License : GNU GPL version 2
   http://weather.yahooapis.com/forecastrss?w=395272&u=c
 
 -Your Weather go: https://weather.yahoo.com/
+
+## Screenshot
+
+![Conky-VaSlibre](http://es.tinypic.com/r/21eyik0/8)
